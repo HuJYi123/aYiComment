@@ -111,7 +111,7 @@ public class UserController {
 
 
     /**
-     * 统计连续签到
+     * 统计连续签到1
      * @return
      */
     @GetMapping("/sign/count")
